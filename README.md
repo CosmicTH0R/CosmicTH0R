@@ -46,7 +46,7 @@
   <!-- CodeChef Badge -->
   <img src="https://img.shields.io/badge/CodeChef-3★-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 
-  <!-- LeetCode Knight Badge (Matching Style) -->
+  <!-- LeetCode Knight Badge -->
   <img src="https://img.shields.io/badge/LeetCode-Knight-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" />
 
 </p>
@@ -102,21 +102,23 @@
 
 # 📊 **GitHub Analytics**
 
-<p align="center">
+<div align="center">
 
   <!-- GitHub Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=CosmicTH0R&show_icons=true&theme=tokyonight&border_radius=15&hide_border=false&card_width=450"
-    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=CosmicTH0R&show_icons=true&theme=tokyonight&border_radius=15&hide_border=false"
+    height="180px"
+    style="display:inline-block; margin-right:10px;"
   />
 
   <!-- GitHub Streak -->
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=CosmicTH0R&theme=tokyonight&border_radius=15&hide_border=false&card_width=450"
-    width="48%"
+    src="https://github-readme-streak-stats.herokuapp.com?user=CosmicTH0R&theme=tokyonight&border_radius=15&hide_border=false"
+    height="180px"
+    style="display:inline-block;"
   />
 
-</p>
+</div>
 
 ---
 
@@ -124,7 +126,7 @@
 
 <p align="center">
 
-  <!-- GitHub Icon (Fixed) -->
+  <!-- GitHub Icon -->
   <a href="https://github.com/CosmicTH0R">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="55"/>
   </a>
@@ -134,7 +136,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
   </a>
 
-  <!-- LeetCode (Fixed) -->
+  <!-- LeetCode -->
   <a href="https://leetcode.com/u/salman__md/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="55"/>
   </a>
