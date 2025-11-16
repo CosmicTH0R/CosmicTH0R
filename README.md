@@ -1,117 +1,152 @@
-# ⚡ CosmicTH0R — Md Salman  
-Software Developer | Distributed Systems | Full-Stack Engineering | Real-Time Systems
+<!-- ======================================= -->
+<!--         ⚡ COSMICTH0R BANNER            -->
+<!-- ======================================= -->
 
-I design scalable backend systems, real-time communication platforms, and high-performance full-stack applications.  
-My engineering focus includes distributed event-driven architectures, containerized execution pipelines, CRDT-driven collaborative systems, and modern frontend development.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CosmicTH0R/CosmicTH0R/main/Gemini_Generated_Image_u3ytaxu3ytaxu3yt.png" width="100%" />
+</p>
 
-I write reliable, efficient code across C++, Java, Python, and JavaScript—supported by strong DSA fundamentals (1000+ problems solved).
+<h1 align="center">⚡ CosmicTH0R — Md Salman</h1>
+<h3 align="center">Software Developer • Distributed Systems • Real-Time Engineering</h3>
 
----
-
-## 🚀 Technical Skillset
-
-### **Languages**
-C++, Java, Python, JavaScript (ES6+), TypeScript
-
-### **Backend & Distributed Systems**
-Node.js, Express.js, Spring Boot  
-Kafka, CRDTs (Yjs), Socket.io, Event-Driven Architecture  
-WebSockets, REST APIs, Rate Limiting, Caching, Linux, Docker
-
-### **Frontend Engineering**
-React, Next.js, TypeScript, Redux, Tailwind  
-Performance Profiling, Lazy Loading, UI Optimization
-
-### **Databases**
-MongoDB, MySQL, PostgreSQL, H2, Redis
-
-### **Cloud, DevOps & Tools**
-Docker, AWS, GitHub Actions, Postman  
-Cloudinary (S3), JWT, OWASP, Helmet.js  
-Git, VS Code, CI/CD Pipelines
-
-### **CS Fundamentals**
-DSA, OOP, DBMS, OS, CN
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus" />
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kafka-000?style=for-the-badge&logo=apachekafka" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 ---
 
-# 🏆 Competitive Programming
-- **CodeChef — 3★** (Max: 1776) | **Global Rank: 109** (Rated Contests)  
-- **LeetCode — Knight** (Max: 1880) | **Global Rank: 1465** (Weekly Contests)  
-- Solved **1000+ DSA problems** across platforms  
-- **Profiles:**  
-  - LeetCode: https://leetcode.com/u/salman__md/  
-  - GFG: https://www.geeksforgeeks.org/user/mdsalman5czww/  
-  - CodeChef: https://www.codechef.com/users/fit_sheep_54  
-  - Codeforces: https://codeforces.com/profile/Salman6503  
+## 🧑‍🚀 **About Me**
+<img align="right" src="https://raw.githubusercontent.com/CosmicTH0R/CosmicTH0R/main/unnamed.jpg" width="260">
+
+- ⚙️ I build **real-time systems, distributed architectures & scalable backends**  
+- 💡 Strong in **DSA, system design, OS, DBMS, CN**  
+- 🧩 Solved **1000+ DSA problems**  
+- 🛰️ Experienced with **CRDTs, Kafka, Docker, WebSockets**  
+- 🚀 Love designing **microservices & event-driven systems**  
+- 📍 Bengaluru, India  
 
 ---
 
-# 🔥 Featured Projects
+## 🛠️ **Tech Arsenal**
 
-## **🌀 ChatterBox — Real-Time Communication Platform**
-**Tech:** Node.js, Express.js, Socket.io, Kafka, Docker, MongoDB, Redis, React, TypeScript, Cloudinary  
-- Architected a **microservice system** with Docker, separating WebSocket Gateway & REST API → supports **10,000+ concurrent users**.  
-- Implemented **event-driven persistence** with Kafka for **zero message loss**.  
-- Integrated a Watch Party system with **<200ms sync latency**.  
-- Built secure communication using **JWT-based Socket.io middleware**.
-
-🔗 Code: https://github.com/CosmicTH0R/ChatterBox  
-🔗 Live: https://lynkchat.netlify.app/
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,nodejs,express,react,nextjs,tailwind,redux,mongodb,mysql,postgres,redis,docker,kafka,linux,git,github&perline=10" />
+</p>
 
 ---
 
-## **🛠️ CodeSync — Real-Time Collaborative IDE & Online Judge**
-**Tech:** React, TypeScript, Node.js, Yjs (CRDTs), WebSockets, Docker, MongoDB, Tailwind  
-- Designed **sub-100ms CRDT collaboration** for text + cursor sync.  
-- Developed a **secure multi-language code execution sandbox** using Docker, preventing RCE attacks.  
-- Added logging + persistence of collaborative sessions and submissions.  
-- Backend and Yjs WebSocket layer **fully decoupled** for horizontal scaling.
+## 🏆 **Competitive Programming**
 
-🔗 Code: https://github.com/CosmicTH0R/CodeSync
+<p align="center">
 
----
+  <!-- CodeChef Badge -->
+  <img src="https://img.shields.io/badge/CodeChef-3★-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 
-## **🤖 SilentVoice — AI-Powered Media & Social Platform**
-**Tech:** React, Node.js, Express, MongoDB, JWT, Tailwind, NLP Model  
-- Integrated an **AI/NLP system** for automated content generation and intelligent blog updates.  
-- Developed audio/video/text stories and real-time communication features.  
-- Implemented secure OWASP-compliant REST APIs.  
-- Achieved **99% API reliability** and **30% faster rendering** via UI optimization.
+  <!-- LeetCode Knight Badge (Matching Style) -->
+  <img src="https://img.shields.io/badge/LeetCode-Knight-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" />
 
-🔗 Code: https://github.com/CosmicTH0R/SilentVoice
+</p>
+
+- ⭐ **CodeChef (Max 1776)** — Global Rank **109**  
+- ⚔️ **LeetCode (Max 1880)** — Global Rank **1465**  
+- 🧠 Solved **1000+ DSA problems**
 
 ---
 
-# 🧪 Experience & Virtual Internships
+# 🚀 **Highlighted Projects**
 
-## **JPMorgan Chase & Co – Software Engineering Simulation (Forage)**
-- Implemented Spring Boot REST APIs with H2.  
-- Integrated **Kafka** for event-driven transaction systems.  
-- Practiced production-grade debugging, versioning, and release workflows.
-
-📄 Certificate:  
-https://github.com/CosmicTH0R/Certificates/blob/main/JP%20Morgan%20Certificate.pdf
-
----
-
-## **Hewlett Packard Enterprise – Software Engineering Simulation (Forage)**
-- Built and tested Java-based employee management APIs.  
-- Wrote JUnit test suites improving reliability and maintainability.
-
-📄 Certificate:  
-https://github.com/CosmicTH0R/Certificates/blob/main/HPE%20Certificate.pdf
+### 🌀 **ChatterBox — Real-Time Communication Platform**
+- Scalable **microservices architecture (10K+ concurrent users)**  
+- **Kafka-based event persistence** → zero message loss  
+- **<200ms latency** WatchParty  
+- JWT-secured WebSocket gateway  
+🔗 https://github.com/CosmicTH0R/ChatterBox  
+🔗 https://lynkchat.netlify.app/
 
 ---
 
-# 📊 GitHub Analytics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CosmicTH0R&show_icons=true&count_private=true&theme=tokyonight)
+### 🛠 **CodeSync — Real-Time Collaborative IDE**
+- **CRDT (Yjs)** powered collaboration  
+- Sub-100ms multi-cursor sync  
+- Docker-secure execution sandbox  
+- Full logging & history replay  
+🔗 https://github.com/CosmicTH0R/CodeSync
 
 ---
 
-# 🌐 Connect With Me
-- **Portfolio:** https://portfolio-salman-md.netlify.app/  
-- **LinkedIn:** https://www.linkedin.com/in/salman-id/  
-- **GitHub:** https://github.com/CosmicTH0R  
-- **Location:** Bengaluru, India  
-- **Email:** md.salman59765976@gmail.com    
+### 🤖 **SilentVoice — AI-Powered Social Platform**
+- NLP-based content generation  
+- Real-time feeds (audio/video/text)  
+- 30% faster rendering optimization  
+🔗 https://github.com/CosmicTH0R/SilentVoice
+
+---
+
+# 📜 **Experience / Internships**
+
+### 🏦 JPMorgan Chase — Software Engineering (Forage)
+- Spring Boot + H2 + Kafka microservice  
+- Event-driven systems  
+- Debugging & workflow pipelines  
+
+### 🖥 Hewlett Packard Enterprise — Software Engineering (Forage)
+- Java REST APIs  
+- JUnit testing  
+- High-reliability architecture  
+
+---
+
+# 📊 **GitHub Analytics**
+
+<p align="center">
+
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=CosmicTH0R&show_icons=true&theme=tokyonight&border_radius=15&hide_border=false&card_width=450"
+    width="48%"
+  />
+
+  <!-- GitHub Streak -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=CosmicTH0R&theme=tokyonight&border_radius=15&hide_border=false&card_width=450"
+    width="48%"
+  />
+
+</p>
+
+---
+
+# 🌐 **Connect With Me**
+
+<p align="center">
+
+  <!-- GitHub Icon (Fixed) -->
+  <a href="https://github.com/CosmicTH0R">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="55"/>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/salman-id/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+  </a>
+
+  <!-- LeetCode (Fixed) -->
+  <a href="https://leetcode.com/u/salman__md/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="55"/>
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:md.salman59765976@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+  </a>
+
+  <!-- Portfolio -->
+  <a href="https://portfolio-salman-md.netlify.app/">
+    <img src="https://skillicons.dev/icons?i=web" width="55"/>
+  </a>
+
+</p>
