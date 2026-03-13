@@ -27,6 +27,7 @@
 - 🧩 Solved **1000+ DSA problems**  
 - 🛰️ Experienced with **CRDTs, Kafka, Docker, WebSockets**  
 - 🚀 Love designing **microservices & event-driven systems**  
+- 🎓 B.E. in ECE @ **BMS College of Engineering** — Expected May 2026  
 - 📍 Bengaluru, India  
 
 ---
@@ -36,6 +37,19 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,nodejs,express,react,nextjs,tailwind,redux,mongodb,mysql,postgres,redis,docker,kafka,linux,git,github&perline=10" />
 </p>
+
+---
+
+## 💼 **Work Experience**
+
+### 🍽️ TheDesiFood *(Awesome E-Bazaar India Pvt. Ltd.)* — Junior Software Developer
+`Dec 2025 – Present` &nbsp;|&nbsp; Bengaluru, India
+
+- Architected and delivered end-to-end full-stack features integrating dynamic **Next.js** frontend modules with backend REST APIs across cart, checkout, brand, and collection workflows.
+- Designed and implemented backend endpoints for **coupon validation**, dynamic shipping rules, and content-driven brand and collection pages, improving system modularity and scalability.
+- Engineered and shipped **10+ production-grade pages** using reusable, dynamic components — accelerating feature delivery and reducing code duplication.
+- Converted static brand/collection pages into **backend-driven modules** with dynamic descriptions and FAQ sections, eliminating hardcoded content and enabling non-engineering updates.
+- Implemented consolidated **JSON-LD structured data** (Product & Breadcrumb schema) and technical SEO optimizations to improve crawlability, indexing consistency, and rich search result eligibility.
 
 ---
 
@@ -49,10 +63,14 @@
   <!-- LeetCode Knight Badge -->
   <img src="https://img.shields.io/badge/LeetCode-Knight-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" />
 
+  <!-- Codeforces Badge -->
+  <img src="https://img.shields.io/badge/Codeforces-Specialist-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+
 </p>
 
 - ⭐ **CodeChef (Max 1776)** — Global Rank **109**  
-- ⚔️ **LeetCode (Max 1880)** — Global Rank **1465**  
+- ⚔️ **LeetCode (Max 1988)** — Global Rank **1465**  
+- 🔵 **Codeforces (1460)** — Specialist  
 - 🧠 Solved **1000+ DSA problems**
 
 ---
@@ -64,6 +82,7 @@
 - **Kafka-based event persistence** → zero message loss  
 - **<200ms latency** WatchParty  
 - JWT-secured WebSocket gateway  
+- Built message persistence and delivery logic to ensure reliability during reconnects  
 🔗 https://github.com/CosmicTH0R/ChatterBox  
 🔗 https://lynkchat.netlify.app/
 
@@ -74,6 +93,7 @@
 - Sub-100ms multi-cursor sync  
 - Docker-secure execution sandbox  
 - Full logging & history replay  
+- Implemented session management and fault tolerance to handle disconnects and partial failures  
 🔗 https://github.com/CosmicTH0R/CodeSync
 
 ---
@@ -82,6 +102,7 @@
 - NLP-based content generation  
 - Real-time feeds (audio/video/text)  
 - 30% faster rendering optimization  
+- Added caching, rate limiting, and structured error handling for performance and reliability  
 🔗 https://github.com/CosmicTH0R/SilentVoice
 
 ---
